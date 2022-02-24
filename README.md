@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm João Agribusiness Manager And Data Scientist 🧍</h1>
+# <h1 align="center">Hi 👋, I'm João Agribusiness Manager And Data Scientist</h1>
 <a href="https://www.linkedin.com/in/joaopaulobell/" class="button big">Linkedin</a>
 
 <img align= "left" height="215" src= "https://github-readme-stats.vercel.app/api?username=joaopaulobell&show_icons=true&theme=blue-green"></img>
