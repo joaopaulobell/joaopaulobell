@@ -10,9 +10,5 @@
 #### 🎓 Diploma in Agribusiness Management
 
 #  💻 Expertise
-#### ✔️ Python Skills
-#### ✔️ C++
-#### ✔️ Data science
-#### ✔️ Machine learning
-#### ✔️ Farm Economy
-#### ✔️ Business inteligence
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/>✔️<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="80" height="80" />  ✔️  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="80" height="80"/> ✔️<img src= "https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" width="140" height="80" />✔️
+
