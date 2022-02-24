@@ -6,7 +6,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 #  :man_student: Education
-#### 🎓 Computer Science and Machine Learning student
+#### 🎓 Data Science and Machine Learning student
 #### 🎓 Diploma in Agribusiness Management
 
 #  💻 Expertise
